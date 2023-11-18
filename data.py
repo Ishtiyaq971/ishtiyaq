@@ -14,4 +14,4 @@ dic = {
 
 data = pd.read_csv("data//data.csv")
 
-st.dataframe (data)
+st.dataframe (a)
