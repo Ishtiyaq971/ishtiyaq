@@ -1,0 +1,14 @@
+Lot_ID,Finish_Good_Items,Operation,Resource,Start_Time,End_Time
+1,Item_A,Packaging,Labor,21-11-2023 19:04,21-11-2023 20:04
+1,Item_A,Assembly,Labor,15-11-2023 19:04,15-11-2023 21:04
+1,Item_A,Quality Check,Labor,17-11-2023 19:04,18-11-2023 01:04
+2,Item_B,Packaging,Labor,21-11-2023 19:04,21-11-2023 20:04
+2,Item_B,Quality Check,Labor,08-12-2023 19:04,09-12-2023 00:04
+2,Item_B,Assembly,Equipment,23-11-2023 19:04,24-11-2023 00:04
+3,Item_C,Assembly,Equipment,04-12-2023 19:04,04-12-2023 21:04
+3,Item_C,Quality Check,Equipment,29-11-2023 19:04,30-11-2023 00:04
+4,Item_D,Assembly,Equipment,08-12-2023 19:04,08-12-2023 20:04
+4,Item_D,Packaging,Labor,19-11-2023 19:04,20-11-2023 00:04
+5,Item_E,Quality Check,Labor,16-11-2023 19:04,17-11-2023 03:04
+5,Item_E,Cutting,Equipment,22-11-2023 19:04,22-11-2023 21:04
+5,Item_E,Packaging,Equipment,29-11-2023 19:04,30-11-2023 01:04
